@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate Data Analyst and a machine learning enthusiast currently pursuing a B.Tech degree in Computer Engineering. I specialize in analyzing complex datasets and deriving actionable insights to drive data-driven decisions.
 
 
-![Uploading rbm7.jpg…]()
+!
 
 ## 🌟 About Me
 
