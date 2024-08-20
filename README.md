@@ -41,9 +41,9 @@ Currently diving into machine learning, expanding my skills in algorithm develop
 
 ### 📫 Connect with Me
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/abhay-suryawanshi-a0b9632b1)
+- **LinkedIn**: [https://www.linkedin.com/in/abhay-suryawanshi-a0b9632b1)](https://www.linkedin.com/in/abhay-suryawanshi-a0b9632b1)
 - **GitHub**: [My GitHub Profile](#)
-- **Email**: [My Email](abhaysuryawanshi9322@gmail.com)
+- **Email**: [abhaysuryawanshi9322@gmail.com](abhaysuryawanshi9322@gmail.com)
 
 ---
 
