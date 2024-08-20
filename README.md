@@ -1,7 +1,9 @@
-![big_data](https://github.com/user-attachments/assets/b6278e33-01bf-4e4c-b9bd-6e1e5f9320d9)# Hello! I'm Abhay Suryawanshi 👋
+# Hello! I'm Abhay Suryawanshi 👋
 
 Welcome to my GitHub profile! I'm a passionate Data Analyst and a machine learning enthusiast currently pursuing a B.Tech degree in Computer Engineering. I specialize in analyzing complex datasets and deriving actionable insights to drive data-driven decisions.
 
+
+![Uploading rbm7.jpg…]()
 
 ## 🌟 About Me
 
