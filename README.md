@@ -1,10 +1,10 @@
 # 🚀 Welcome to My Data Analytics & Machine Learning Journey!
 
-![Banner]() <!-- Replace with your actual banner image URL -->
+![Banner](https://github.com/Abhay9322/Abhay9322/blob/main/abhay%20suryawanshi%20(1).png?raw=true) <!-- Replace with your actual banner image URL -->
 
 ## 📊 Data Analyst | 📚 Machine Learning Enthusiast
 
-Hello! I'm [Your Name], a passionate data analyst and an aspiring machine learning expert currently pursuing a B.Tech in Computer Engineering at Government College of Engineering, Yavatmal. My journey in data analysis and machine learning is driven by a desire to uncover meaningful insights and apply advanced algorithms to solve real-world problems.
+Hello! I'm Abhay Suryawanshi, a passionate data analyst and an aspiring machine learning expert currently pursuing a B.Tech in Computer Engineering at Government College of Engineering, Yavatmal. My journey in data analysis and machine learning is driven by a desire to uncover meaningful insights and apply advanced algorithms to solve real-world problems.
 
 ### 🔍 What I Do
 
@@ -13,11 +13,11 @@ Hello! I'm [Your Name], a passionate data analyst and an aspiring machine learni
 
 ### 🏆 My Projects
 
-- **[Super Store Sales Dashboard](#)**: An interactive Power BI dashboard providing insights into sales data with time series analysis and forecasting.
-- **[HR Analytics Dashboard](#)**: Analyzed HR data to gain insights into employee performance, satisfaction, and retention rates using Power BI.
-- **[Olympic Data Analysis](#)**: Created a dashboard to visualize Olympic medal statistics, including top athletes and countries.
-- **[Cereal Analysis](#)**: Explored and analyzed data on 80 cereals to derive insights for better product understanding.
-- **[Customer Personality Analysis](#)**: Conducted a detailed analysis to better understand customer segments and optimize marketing strategies.
+- **[Super Store Sales Dashboard](https://github.com/Abhay9322/CognoRise-InfoTech)**: An interactive Power BI dashboard providing insights into sales data with time series analysis and forecasting.
+- **[HR Analytics Dashboard](https://github.com/Abhay9322/CognoRise-InfoTech)**: Analyzed HR data to gain insights into employee performance, satisfaction, and retention rates using Power BI.
+- **[Olympic Data Analysis](https://github.com/Abhay9322/CognoRise-InfoTech)**: Created a dashboard to visualize Olympic medal statistics, including top athletes and countries.
+- **[Cereal Analysis](https://github.com/Abhay9322/CognoRise-InfoTech)**: Explored and analyzed data on 80 cereals to derive insights for better product understanding.
+- **[Customer Personality Analysis](https://github.com/Abhay9322/CognoRise-InfoTech)**: Conducted a detailed analysis to better understand customer segments and optimize marketing strategies.
 
 ### 🎓 Education
 
@@ -41,9 +41,9 @@ Currently diving into machine learning, expanding my skills in algorithm develop
 
 ### 📫 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [Your GitHub Profile](#)
-- **Email**: [Your Email](mailto:youremail@example.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/abhay-suryawanshi-a0b9632b1)
+- **GitHub**: [My GitHub Profile](#)
+- **Email**: [My Email](abhaysuryawanshi9322@gmail.com)
 
 ---
 
