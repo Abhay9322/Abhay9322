@@ -42,7 +42,7 @@ Currently diving into machine learning, expanding my skills in algorithm develop
 ### 📫 Connect with Me
 
 - **LinkedIn**: [https://www.linkedin.com/in/abhay-suryawanshi-a0b9632b1)](https://www.linkedin.com/in/abhay-suryawanshi-a0b9632b1)
-- **GitHub**: [My GitHub Profile](#)
+- **GitHub**: [https://github.com/Abhay9322/CognoRise-InfoTech](https://github.com/Abhay9322/CognoRise-InfoTech)
 - **Email**: [abhaysuryawanshi9322@gmail.com](abhaysuryawanshi9322@gmail.com)
 
 ---
