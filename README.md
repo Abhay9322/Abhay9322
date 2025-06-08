@@ -74,4 +74,4 @@ A React-based quiz app with a countdown timer, score tracking, and question navi
 ---
 
 > 💡 *Every bug I fix is a step closer to mastery.*  
-> Keep learning. Keep building. 💻
+>     Keep learning. Keep building. 💻
