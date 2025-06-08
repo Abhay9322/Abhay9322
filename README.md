@@ -1,8 +1,8 @@
 # 🚀 Welcome to My Full Stack Web Development Journey!
 
-### 👨‍💻 MERN Stack Developer | 🌐 Full Stack Enthusiast | 📊 Data Analyst
+### 👨‍💻 MERN Stack Developer | 🌐 Full Stack Enthusiast 
 
-Hello! I'm **Abhay Suryawanshi**, a passionate **Full Stack Web Developer** and **Data Analyst**, currently pursuing a B.Tech in Computer Engineering at **Government College of Engineering, Yavatmal**. I enjoy building full-stack web applications that solve real-world problems and offer great user experiences.
+Hello! I'm **Abhay Suryawanshi**, a passionate **Full Stack Web Developer** currently pursuing a B.Tech in Computer Engineering at **Government College of Engineering, Yavatmal**. I enjoy building full-stack web applications that solve real-world problems and offer great user experiences.
 
 ---
 
@@ -49,14 +49,6 @@ An interactive product page UI with add-to-cart feature and dynamic product rend
 A React-based quiz app with a countdown timer, score tracking, and question navigation.  
 **Concepts:** useEffect, useState, conditional rendering  
 🔗 [GitHub Repo](https://github.com/Abhay9322/Quiz-App)
-
----
-
-## 📊 Other Skills
-
-- **Power BI:** Dynamic dashboards, business KPIs
-- **Python:** Data manipulation (Pandas), ML algorithms (Scikit-learn)
-- **SQL:** Querying and database operations
 
 ---
 
