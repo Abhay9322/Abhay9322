@@ -73,5 +73,5 @@ A React-based quiz app with a countdown timer, score tracking, and question navi
 
 ---
 
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
+> 💡 *Every bug I fix is a step closer to mastery.*  
 > Keep learning. Keep building. 💻
