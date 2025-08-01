@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Java + MERN stack projects**
 
-- 🌱 I’m exploring DevOps, Docker, Kubernetes, and CI/CD pipelines**
+- 🌱 I’m exploring DevOps, Docker, Kubernetes, and CI/CD pipelines
 
 - 👯 I’m open to collaborating on **real-world applications, APIs, frontend & backend systems**
 
