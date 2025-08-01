@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Java + MERN stack projects**
 
-- 🌱 I’m currently learning **Spring Boot, DevOps, and TypeScript**
+- 🌱 I’m exploring **TypeScript, CI/CD, and System Design concepts**
 
-- 👯 I’m open to collaborating on **real-world applications, APIs, and backend services**
+- 👯 I’m open to collaborating on **real-world applications, APIs, frontend & backend systems**
 
-- 💬 Ask me about **Java, React, MongoDB, Node.js, REST APIs, and Problem Solving**
+- 💬 Ask me about **Java, React, Node.js, MongoDB, REST APIs, and Git**
 
 - 📫 Reach me at: **abhaysuryawanshi9322@gmail.com**
 
-- ⚡ Fun fact: I love solving DSA problems in my free time 🤓
+- ⚡ Fun fact: I enjoy turning complex problems into simple solutions!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay9322&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
@@ -42,7 +42,6 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
