@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay9322&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-<span align="left"><img src="https://img.shields.io/badge/Total%20Repos-40-blueviolet" alt="Total Repositories" /></span>
+<span align="left"><img src="https://img.shields.io/badge/Total%20Repos-15-blueviolet" alt="Total Repositories" /></span>
 <p><img align="center" src="https://img.shields.io/github/commit-activity/m/Abhay9322/portfolio-react?label=Commits" alt="Commit Activity" /></p>
 
 ---
