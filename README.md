@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Total%20Repos-15-blueviolet" alt="Total Repositories" />
+  <img src="https://img.shields.io/badge/Total%20Repos-19-blueviolet" alt="Total Repositories" />
 </p>
 
 <p align="left">
